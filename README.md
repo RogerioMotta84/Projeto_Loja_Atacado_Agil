@@ -20,13 +20,9 @@ quantidade >= 1001	R$ 240.00
 
 **Segue o exemplo de SAIDA DE CONSOLE:**
 
-***Bem vindo a loja Atacado Ágil X***
-***Entre com valor do produto:0.80***
-***Entre com a quantidade desejada:1001***
-***O valor sem frete foi: R$ 800.80***
-***O valor com frete foi: R$ 1040.80 (frete de R$ 240.00)***
 
-Figura: Exemplo de programa com 1001 unidades sendo pedidas.  
 ![Captura de tela do programa](./imagem/Print%20Projeto%20Loja%20Atacado%20%C3%81gil%20X.png)
+
+Figura: Exemplo de programa com 1001 unidades sendo pedidas. 
 
 
