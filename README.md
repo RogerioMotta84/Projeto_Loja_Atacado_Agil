@@ -27,5 +27,5 @@ quantidade >= 1001	R$ 240.00
 ***O valor com frete foi: R$ 1040.80 (frete de R$ 240.00)***
 
 Figura: Exemplo de programa com  1001 unidades sendo pedidas.
-![Captura de tela do programa](images/captura_tela.png)
+![Captura de tela do programa]("D:\Faculdade - Analise e Desenvolvimento de Sistemas\Uninter Trabalhos Python\Loja Atacado Ágil\imagem\Print Projeto Loja Atacado Ágil X.png")
 
